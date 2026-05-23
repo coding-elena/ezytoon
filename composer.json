@@ -1,6 +1,7 @@
 {
     "name": "niobe/ezytoon",
-    "description": "PHP 8.4 encoder to TOON format",
+    "description": "Ultra-efficient PHP encoder for TOON format. Drastically compress your data structures to minimize token counts and slash costs in AI prompts.",
+    "license": "MIT",
     "type": "library",
     "require": {
         "php": ">=8.4"
