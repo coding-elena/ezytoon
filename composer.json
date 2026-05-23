@@ -1,0 +1,13 @@
+{
+    "name": "niobe/ezytoon",
+    "description": "PHP 8.4 encoder to TOON format",
+    "type": "library",
+    "require": {
+        "php": ">=8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toon\\": "src/"
+        }
+    }
+}
