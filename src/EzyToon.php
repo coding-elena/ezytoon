@@ -4,6 +4,8 @@ declare(strict_types=1);
  
 /**
  * EzyToon — PHP >=8.4 encoder to TOON format
+ * @author coding-elena
+ * @link https://github.com/coding-elena/ezytoon
  *
  * Token-Oriented Object Notation (TOON) — spec v3.3
  * https://toonformat.dev/
